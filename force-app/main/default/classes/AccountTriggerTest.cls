@@ -20,5 +20,6 @@ private class AccountTriggerTest {
         String st2= 'dev-feat-0107-first';
         String st3 = 'dev-feat-0120-1041';
         String st4 = 'dev-20251740-1741';
+        String st4 = 'dev-20251740-1741 DEV专属合并';
     }
 }
