@@ -19,7 +19,7 @@ private class AccountTriggerTest {
         String str = 'Local dev First commit dev any__1648';
         String st2= 'dev-feat-0107-first';
         String st3 = 'dev-feat-0120-1041';
-        String st4 = 'dev-20251740-1741 DEV专属合并';
+        String st4 = 'dev-20251740-1741 DEV专属合并222';
         String st4 = 'dev-20251740-1741 DEV专属合并第二次';
     }
 }
