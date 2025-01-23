@@ -21,5 +21,7 @@ private class AccountTriggerTest {
         String st3 = 'dev-feat-0120-1041';
         String st4 = 'dev-20251740-1741 DEV专属合并222';
         String st4 = 'dev-20251740-1741 DEV专属合并第二次';
+        String st5 = '今日第一次提交并作为优选';
+        String st6 = '今日正常提交，第二次提交';
     }
 }
